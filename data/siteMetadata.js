@@ -1,13 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Joy Blog',
-  author: 'Joy | Yujie Peng',
-  headerTitle: 'Joy.dev',
+  title: 'Wei Blog',
+  author: 'Yuwei Ai',
+  headerTitle: 'Wei Space',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://joy-peng-blog.vercel.app/',
-  siteRepo: 'https://github.com/Codefreyy/joy-blog',
+  siteUrl: 'https://github.com/weihiii',
+  siteRepo: 'https://github.com/weihiii',
   siteLogo: '/static/images/white.png',
   socialBanner: '/static/images/social-banner.png',
   // mastodon: 'https://mastodon.social/@mastodonuser',
